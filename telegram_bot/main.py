@@ -72,3 +72,41 @@ def main():
 if __name__ == '__main__':
     print('[Telegram simple bot] Start...')
     main()
+
+
+.text_input {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  width: 100%;
+}
+.text_input {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  width: 100%;
+}
+.text_input {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  width: 100%;
+}
+.text_input {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  width: 100%;
+}
